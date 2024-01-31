@@ -191,7 +191,6 @@ ul {
 
 /* form */
 
-<<<<<<< Updated upstream
 .form {
   width: 90vw;
   max-width: var(--fixed-width);
@@ -282,9 +281,7 @@ ul {
 
 .carousel-caption {
   height: 60%;
-=======
 body {
->>>>>>> Stashed changes
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -323,11 +320,9 @@ form {
   box-sizing: border-box 60%;
 }
 
-<<<<<<< Updated upstream
 .btn-primary,
 .btn-outline-secondary {
   background-color: #ae759f;
-=======
 button {
   padding: 10px;
   margin-top: 10px;
@@ -338,7 +333,6 @@ button {
   text-transform: capitalize black;
   display: inline-block;
   border-radius: 20px;
->>>>>>> Stashed changes
 }
 
 button:hover {
@@ -346,7 +340,6 @@ button:hover {
  color: white;
 }
 
-<<<<<<< Updated upstream
 @media screen and (min-width: 15em) {
   #myCarousel h1 {
     font-size: 2em;
@@ -402,7 +395,6 @@ button:hover {
 .social-icon:hover {
   color: var(--primary-700);
 }
-=======
 @media (max-width: 768px) {
   .main-block {
     max-width: 100%;
@@ -411,4 +403,3 @@ button:hover {
 footer{
   text-align: center;
 }
->>>>>>> Stashed changes
