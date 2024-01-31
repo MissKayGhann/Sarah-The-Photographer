@@ -36,6 +36,7 @@ Users should be able to:
 - GitHub: [Sarah-The-Photographer](https://github.com/MissKayGhann/Sarah-The-Photographer)
 - Live Site URL: [sarah-the-photographer.io](https://misskayghann.github.io/Sarah-The-Photographer/)
 - Figma Design: [Sarah-The-Photographer](https://www.figma.com/file/ktQikAZSAQTrcl1TjaHRlS/Sarah-the-Photographer?type=design&node-id=32-234&mode=design&t=BKxidypOpcwIetau-0)
+- Report Document: [Sarah-The-Photographer](https://docs.google.com/document/d/1Ei9pakgJAVXrV5lSYIk2y6EBmoMGedKDC8-M8PDCbgw/edit?usp=sharing)
 
 ## The process
 
