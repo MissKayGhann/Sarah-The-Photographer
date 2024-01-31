@@ -191,6 +191,7 @@ ul {
 
 /* form */
 
+<<<<<<< Updated upstream
 .form {
   width: 90vw;
   max-width: var(--fixed-width);
@@ -281,28 +282,71 @@ ul {
 
 .carousel-caption {
   height: 60%;
+=======
+body {
+>>>>>>> Stashed changes
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background: white;
 }
 
-#myCarousel h1 {
-  font-size: 5em;
-  text-align: center;
-}
-
-.homepage_text {
+.main-block {
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+  max-width: 600px;
   width: 100%;
-  text-align: center;
+  padding: 20px;
+  box-sizing: border-box;
+  border: black;
+
 }
 
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: auto;
+  width: 100;
+  color: black;
+
+}
+.input-field {
+  width: 100%;
+  padding: 10px;
+  margin: 8px;
+  box-sizing: border-box 60%;
+}
+
+<<<<<<< Updated upstream
 .btn-primary,
 .btn-outline-secondary {
   background-color: #ae759f;
+=======
+button {
+  padding: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+  color: black;
+  border: none;
+  transition: var(--transition); background-color: #ae759f;
+  text-transform: capitalize black;
+  display: inline-block;
+  border-radius: 20px;
+>>>>>>> Stashed changes
 }
 
-/* Remaining media queries */
+button:hover {
+ background-color: black;
+ color: white;
+}
 
+<<<<<<< Updated upstream
 @media screen and (min-width: 15em) {
   #myCarousel h1 {
     font-size: 2em;
@@ -358,3 +402,13 @@ ul {
 .social-icon:hover {
   color: var(--primary-700);
 }
+=======
+@media (max-width: 768px) {
+  .main-block {
+    max-width: 100%;
+  }
+}
+footer{
+  text-align: center;
+}
+>>>>>>> Stashed changes
