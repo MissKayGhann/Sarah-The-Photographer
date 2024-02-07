@@ -75,5 +75,5 @@ Users should be able to:
 
 ## Acknowledgment
 
-We appreciate our Instructor [@faithIda](https://github.com/faithIda) for her efforts and contribution to our learning.
+We appreciate our Instructor [Faith Ida](https://github.com/faithIda) for her efforts and contribution to our learning.
 
